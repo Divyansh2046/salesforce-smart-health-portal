@@ -67,7 +67,7 @@ Hospitals face challenges managing large patient inflows and appointment request
 
 ---
 
-### [Optional] Diagram: Hospital CRM Workflow
+### Diagram: Hospital CRM Workflow
 
 flowchart TD
 A[Patient Booking Request] --> B[Availability Check]
